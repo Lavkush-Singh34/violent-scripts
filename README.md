@@ -1,4 +1,4 @@
-# YouTube Quality, PiP & Playback Speed Hotkeys 3
+# YouTube Quality, PiP & Playback Speed Hotkeys
 
 This is a Violentmonkey user script that allows you to control YouTube video quality, enable Picture-in-Picture (PiP) mode, and adjust playback speed using keyboard shortcuts.
 
