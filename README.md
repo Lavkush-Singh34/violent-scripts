@@ -5,7 +5,7 @@ This is a Violentmonkey user script that allows you to control YouTube video qua
 ## Installation
 
 1. Install [Violentmonkey](https://violentmonkey.github.io) on your browser.
-2. Create a new script in Tampermonkey.
+2. Create a new script in Violentmonkey.
 3. Copy and paste the following script into the editor.
 4. Save and enable the script.
 
@@ -32,7 +32,7 @@ Press the following keys to change video quality:
 ```javascript
 // ==UserScript==
 // @name         YouTube Quality, PiP & Playback Speed Hotkeys 3
-// @namespace    http://tampermonkey.net/3
+// @namespace    https://violentmonkey.github.io
 // @version      1.2
 // @description  Assign keyboard shortcuts to change YouTube video quality, enable PiP mode, and adjust playback speed with overlay
 // @author       Lavkush Singh
