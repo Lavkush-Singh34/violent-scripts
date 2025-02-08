@@ -4,7 +4,7 @@ This is a Violentmonkey user script that allows you to control YouTube video qua
 
 ## Installation
 
-1. Install [Violentmonkey]([https://www.tampermonkey.net/](https://violentmonkey.github.io/)) on your browser.
+1. Install [Violentmonkey](https://www.tampermonkey.net/](https://violentmonkey.github.io) on your browser.
 2. Create a new script in Tampermonkey.
 3. Copy and paste the following script into the editor.
 4. Save and enable the script.
